@@ -10,6 +10,7 @@ coreschema==0.0.4
 cryptography==41.0.7
 defusedxml==0.8.0rc2
 Django==3.2.16
+django-extra-fields==3.0.2
 django-templated-mail==1.1.1
 djangorestframework==3.12.4
 djangorestframework-simplejwt==4.7.2
@@ -23,6 +24,7 @@ oauthlib==3.2.2
 packaging==23.2
 Pillow==9.3.0
 pluggy==0.13.1
+psycopg2-binary==2.9.9
 py==1.11.0
 pycparser==2.21
 PyJWT==2.8.0
