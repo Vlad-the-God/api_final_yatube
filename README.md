@@ -8,7 +8,7 @@ Yatube — это платформа для блогов с возможност
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone <link>
+git clone https://github.com/Vlad-the-God/api_final_yatube.git
 
 cd api_final_yatube
 ```
